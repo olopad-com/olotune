@@ -1,5 +1,7 @@
 # OloTune releases
 
+![OloTune](screenshot.png)
+
 Windows installers for [OloTune](https://github.com/olopad-com/olotune) —
 a free guitar tuner VST3 + standalone, built by [OloPad](https://olopad.com).
 
